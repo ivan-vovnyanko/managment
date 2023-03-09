@@ -1,0 +1,1 @@
+CREATE TABLE products (id BIGINT NOT NULL AUTO_INCREMENT, name varchar(255)), PRIMARY KEY (id)) ENGINE=InnoDB;
